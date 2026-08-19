@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated SQL Playground data (regenerate with scripts/generate_data.py)
+data/csv/
+data/insert_data.sql
+data/playground.db
+
